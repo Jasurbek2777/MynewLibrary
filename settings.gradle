@@ -1,0 +1,3 @@
+rootProject.name = "My new Library"
+include ':app'
+include ':mylibrary'
