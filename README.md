@@ -13,5 +13,5 @@ Add it in your root build.gradle at the end of repositories:
   Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Jasurbek2777:MynewLibrary:Tag'
+	        implementation 'com.github.Jasurbek2777:MynewLibrary:1.0.0'
 	}
